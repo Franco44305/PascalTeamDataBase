@@ -1,0 +1,12 @@
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\bin\Debug\net6.0\CnSql.deps.json
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\bin\Debug\net6.0\CnSql.dll
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\bin\Debug\net6.0\CnSql.pdb
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\obj\Debug\net6.0\CnSql.csproj.AssemblyReference.cache
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\obj\Debug\net6.0\CnSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\obj\Debug\net6.0\CnSql.AssemblyInfoInputs.cache
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\obj\Debug\net6.0\CnSql.AssemblyInfo.cs
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\obj\Debug\net6.0\CnSql.csproj.CoreCompileInputs.cache
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\obj\Debug\net6.0\CnSql.dll
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\obj\Debug\net6.0\refint\CnSql.dll
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\obj\Debug\net6.0\CnSql.pdb
+C:\Users\franv\OneDrive\Escritorio\FACULTAD\2 AÑO\BASE DE DATOS I\TP Pascal Team\ClinicaLocal\CnSql\CnSql\obj\Debug\net6.0\ref\CnSql.dll
